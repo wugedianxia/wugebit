@@ -1,7 +1,7 @@
 {
     "target": "microbit",
     "targetVersion": "2.0.6",
-    "name": "SuperBit",
+    "name": "WugeBit",
     "meta": {},
     "editor": "tsprj",
     "pubId": "",
@@ -14,7 +14,7 @@
     "blobVersion": null,
     "blobCurrent": false,
     "isDeleted": false,
-    "path": "SuperBit",
+    "path": "WugeBit",
     "githubCurrent": false,
     "saveId": null
 }
