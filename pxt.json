@@ -5,7 +5,8 @@
     "license": "MIT",
     "dependencies": {
         "core": "*",
-        "neopixel": "github:wugedianxia/pxt-neopixel"
+        "neopixel": "github:wugedianxia/pxt-neopixel",
+        "tm1637": "github:wugedianxia/TM1637"
     },
     "files": [
         "README.md",
